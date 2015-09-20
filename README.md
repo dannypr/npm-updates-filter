@@ -25,6 +25,7 @@ Creates a new instance. `options` can have
 
 * `autoStart` - Defaults to `true`. Will auto start requesting the registry for updates. If disabled, you can use `start()`.
 * `uri` - You can set the couchdb registry uri that it checks with this.
+* `filter` - Filter function, return `true` if id is matched.
 
 ### NPM#start()
 
