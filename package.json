@@ -1,5 +1,5 @@
 {
-  "name": "npm-updates",
+  "name": "npm-updates-filter",
   "description": "Emits update events from the npm repository.",
   "keywords": ["events", "packages", "modules", "npm"],
   "version": "v0.1.3",
